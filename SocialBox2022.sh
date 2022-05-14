@@ -79,15 +79,15 @@ echo -e "$red"
 read -p "Wanna Back To Main Menu [ Y / n ] : " check2
 echo -e "$nc"
 if [ $check2 = "Y" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash SocialBox2022.sh
 elif [ $check2 = "y" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash SocialBox2022.sh
 elif [ $check2 = "Yes" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash SocialBox2022.sh
 elif [ $check2 = "yes" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash SocialBox2022.sh
 elif [ $check2 = "YES" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash SocialBox2022.sh
 else
 exit 1
 fi
