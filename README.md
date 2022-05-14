@@ -36,7 +36,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![alt text](https://github.com/AdamSeliany/SocialBox2022/blob/main/Screenshots.PNG)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
