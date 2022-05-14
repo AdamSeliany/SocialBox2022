@@ -42,9 +42,9 @@ List the ready features here:
 
 ## Setup
 sudo apt-get install git <br>
-git clone https://github.com/TunisianEagles/SocialBox.git 
-cd SocialBox ./
-chmod +x SocialBox.sh
-chmod +x install-sb.sh
-./install-sb.sh
-./SocialBox.sh
+git clone https://github.com/TunisianEagles/SocialBox.git <br>
+cd SocialBox <br>
+chmod +x SocialBox.sh <br>
+chmod +x install-sb.sh <br>
+./install-sb.sh <br>
+./SocialBox.sh <br>
